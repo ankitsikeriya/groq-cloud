@@ -2,4 +2,4 @@
 learning groq models  
  
   
-24 aug 20
+24 aug 202
